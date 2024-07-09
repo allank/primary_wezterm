@@ -2,6 +2,8 @@
 
 Simple application of the color scheme from the [Primary](https://github.com/primary-theme/obsidian) [Obsidian](https://obsidian.md/) theme to [Wezterm](https://wezfurlong.org/wezterm/).
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 - Copy `Primary.toml` into your `.config/wezterm/colors` directory
